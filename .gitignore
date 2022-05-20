@@ -1,0 +1,5 @@
+## PYTHON
+# VCFormater
+python/vcformater/__pycache__
+python/vcformater/contacts.vcf
+python/vcformater/formatted-contacts.vcf
